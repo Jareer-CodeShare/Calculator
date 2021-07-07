@@ -1,0 +1,8 @@
+QPushButton {
+     border: none;
+     background: #e0e0e0;
+}
+
+QLineEdit {
+     border: 5px #87cefa solid;
+}
